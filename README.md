@@ -4,7 +4,7 @@ Hi, <br/>
 
 This is a simple Angular POC created by Abhishek Choubey. <br/>
 
-In this POC I tried to demonstrate Services In Angular.  <br/>
+In this POC I tried to demonstrate Services concepts In Angular.  <br/>
 
 <b> Important Notes <b/> <br/>
 After Angular 6 providedIn concept was introduced.  <br/>
